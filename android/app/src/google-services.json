@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692320137759",
+    "project_id": "sidi-salem-online-5033b",
+    "storage_bucket": "sidi-salem-online-5033b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692320137759:android:62010cf0f4c75e961d1b2a",
+        "android_client_info": {
+          "package_name": "com.hema.sd_online"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDghMhwSgIhZrE1UhMIImmer22oE_VEig8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
