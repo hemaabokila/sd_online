@@ -27,16 +27,16 @@ The application includes the following screens:
 Here are some screenshots of the different screens in the app:
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](https://github.com/user-attachments/assets/240b8f77-a356-4cf0-a614-fdb50a0a3a26)
 
 ### Sections Page
-![Sections Page](screenshots/sections_page.png)
+![Sections Page](https://github.com/user-attachments/assets/247986e1-e32a-41e9-a20f-5a35be23fde9)
 
 ### Card
-![Card](screenshots/card.png)
+![Card](https://github.com/user-attachments/assets/cf0e55dd-8cc5-4fe8-8336-0ece695439f0)
 
 ### Content Page
-![Content Page](screenshots/content_page.png)
+![Content Page](https://github.com/user-attachments/assets/a3e17b00-c2a4-400c-a6c7-a11c41ef22bf)
 
 ## Installation
 
